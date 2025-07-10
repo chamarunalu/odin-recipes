@@ -1,12 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+    color: #444;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body {
-    background-color: aliceblue;
     margin: 0;
+    background-color: #f7f4f4;
 }
 
 .home {
@@ -77,13 +78,13 @@ hr {
 }
 
 .card-1 {
-    background-color: #dae1f198;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .card-2 {
     background-color: #F4EBD3;
-    margin: 0;
+    width: 550px;
+    margin: 0 auto;
 }
 
 ul {
@@ -120,4 +121,8 @@ p.description {
     margin: 0;
     font-weight: bold;
     text-align: justify;
+}
+
+span {
+    font-size: 19px;
 }

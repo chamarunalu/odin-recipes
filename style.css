@@ -8,23 +8,22 @@ body {
 }
 
 .heading {
-    background-color: #FFFBDE;
+    background-color: #f7f4f4;
     padding: 40px;
 }
 
 .card {
     padding: 0;
-    background-color: #FFFBDE;
+    background-color: #f7f4f4;
     padding: 40px;
     padding-top: 0px;
 }
 
 .links-card {
-    background-color: #dbedf7c9;
     width: 70%;
     margin: 0 auto;
     padding: 40px;
-    border: 10px dotted #555879;
+    border: 2px dashed #555879;
 }
 
 h1, ul li {
